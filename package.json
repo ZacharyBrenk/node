@@ -2,7 +2,7 @@
   "name": "node",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hopkinstechnocrats.github.io/hopkinstechnocrats.github.io",
+  "homepage": "http://hopkinstechnocrats.github.io/hopkinstechnocrats.github.io",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
